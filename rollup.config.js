@@ -8,7 +8,7 @@ const tsConfig = {
   outputToFilesystem: true,
 };
 
-const externalDeps = ['react', 'react-dom', '@jonbri/libby-ui', '@jonbri/token'];
+const externalDeps = ['react', 'react-dom', '@polyrepo-fam/libby-ui', '@polyrepo-fam/token'];
 
 module.exports = [
   {
