@@ -1,5 +1,5 @@
 import { createElement } from 'react';
-import { TOKEN_COLOR_ALT, TOKEN_SIZE_ALT, TOKEN_WEIGHT_ALT } from '@jonbri/token';
+import { TOKEN_COLOR_ALT, TOKEN_SIZE_ALT, TOKEN_WEIGHT_ALT } from '@polyrepo-fam/token';
 
 export interface AbcProps {
   upperCase?: boolean;
