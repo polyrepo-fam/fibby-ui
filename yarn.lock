@@ -1449,16 +1449,6 @@
     "@types/yargs" "^16.0.0"
     chalk "^4.0.0"
 
-"@jonbri/libby-ui@*":
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/@jonbri/libby-ui/-/libby-ui-1.2.2.tgz#f1023a4d2f5f6f627505afcd542a67db17194599"
-  integrity sha512-9Uo0rjH3vHYaxF3iPMnho9qIHqPdaYLPSTlRa9wfcG1ueey6QRWM3BQc2IN0NX+rByef7TEka1+OxiW1XcanoA==
-
-"@jonbri/token@*":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@jonbri/token/-/token-1.1.1.tgz#d1c5dce5f4ed63005ce0fc3b7714d854c258a993"
-  integrity sha512-ImnBVehjLQPXic8J0ZGXIFSLnN/G6TXod+BtbbHp9BwhXFePsi1611zjLUgsDm+waYJwO27nIvip0Mx+stFkig==
-
 "@jridgewell/gen-mapping@^0.1.0":
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/@jridgewell/gen-mapping/-/gen-mapping-0.1.1.tgz#e5d2e450306a9491e3bd77e323e38d7aff315996"
@@ -1902,6 +1892,16 @@
   dependencies:
     "@pnpm/network.ca-file" "^1.0.1"
     config-chain "^1.1.11"
+
+"@polyrepo-fam/libby-ui@*":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@polyrepo-fam/libby-ui/-/libby-ui-1.0.0.tgz#091131cbbc72a954621207dad42171ba355da813"
+  integrity sha512-jM+f2Q91RXcoYZVlNeazeq0z2N6drng6wltktY7Lyb6IvEqx8cEUslI3bZfwSmuWYpP3dGkjgXbLVAeKCeOhXQ==
+
+"@polyrepo-fam/token@*":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@polyrepo-fam/token/-/token-1.0.0.tgz#44fb93791f3d61d11c44157946bcbc9cd7d1e0fd"
+  integrity sha512-fRpdBMdMdnee8khIetNsEqW7bk6GVR5en0e024MSpZSQ93+31IYf7JfWP++dlMITdwnpiIerBlq8fHn9IZyTlg==
 
 "@rollup/plugin-typescript@8.3.4":
   version "8.3.4"
