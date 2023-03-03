@@ -32,7 +32,7 @@
     "lint": "yarn format:check && yarn eslint",
     "semantic-release": "semantic-release",
     "start": "start-storybook -p 6006",
-    "update": "yarn upgrade @jonbri/libby-ui @polyrepo-fam/token"
+    "update": "yarn upgrade @polyrepo-fam/libby-ui @polyrepo-fam/token"
   },
   "release": {
     "branches": [
@@ -45,7 +45,7 @@
     "@babel/plugin-transform-runtime": "^7.19.1",
     "@commitlint/cli": "^17.4.4",
     "@commitlint/config-conventional": "^17.4.4",
-    "@jonbri/libby-ui": "*",
+    "@polyrepo-fam/libby-ui": "*",
     "@polyrepo-fam/token": "*",
     "@rollup/plugin-typescript": "8.3.4",
     "@rollup/plugin-url": "^8.0.0",

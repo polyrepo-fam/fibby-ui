@@ -1,5 +1,5 @@
 import { createElement } from 'react';
-import { Button, ButtonProps } from '@jonbri/libby-ui';
+import { Button, ButtonProps } from '@polyrepo-fam/libby-ui';
 
 export interface FButtonProps extends ButtonProps {}
 export const FButton = ({ children }: FButtonProps) => {
